@@ -1,0 +1,3 @@
+- naprawiæ b³edy z plikami
+- dokoñczyæ usuwanie
+- pierdoln¹æ gdzieœ pointery
